@@ -1,3 +1,1 @@
-Criando uma API GraphQL usando Apollo Server
-
-# api-graphql-apollo-server
+# Criando uma API GraphQL usando Apollo Server 
