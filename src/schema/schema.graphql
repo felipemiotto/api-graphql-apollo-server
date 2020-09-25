@@ -1,3 +1,7 @@
 type Query {
   helloWorld: String!
+  @deprecated(reason: "Funcao nao suportada")
+
+  """Query pegar repostorios"""
+  publicGitHubUserRepositories(name: String!): [String!]!
 }
